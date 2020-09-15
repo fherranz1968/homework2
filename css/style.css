@@ -5,8 +5,7 @@ h1{
 
 h2{
 	font-size: 30px;
-	color: #808080;
-	text-shadow: 5px 5px 2px;
+	text-shadow: 5px 5px 2px #808080;
 }
 
 body{
