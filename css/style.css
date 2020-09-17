@@ -27,26 +27,26 @@ img{
 }
 
 div#intro {
-		height: 150px;
+		min-height: 150px;
 		padding: 25px;
 }
 
 div#red {
-	height: 150px;
+	min-height: 150px;
 	padding: 25px;
   background-color: #FF0000;
 	text-align: right;
 }
 
 div#blue {
-	height: 150px;
+	min-height: 150px;
 	padding: 25px;
   background-color: #0000FF;
 	text-align: left;
 }
 
 div#yellow {
-	height: 150px;
+	min-height: 150px;
 	padding: 25px;
   background-color: #FFFF00;
 	color: #000000;
@@ -59,7 +59,7 @@ div#yellow {
 }
 
 div#green {
-	height: 150px;
+	min-height: 150px;
 	padding: 25px;
   background-color: #008000;
 	text-align: left;
